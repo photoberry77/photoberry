@@ -1,0 +1,86 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-section{
+  background-color: #222831;
+    min-height: 50rem;
+  text-align: center;
+padding-bottom:  2rem;
+}
+.about-section{
+  background-color: #30475e;
+    color: #ececec;
+    min-height: 50rem;
+    padding-bottom:  2rem;
+}
+.nav-link{
+  color: #ececec; !important
+
+}
+.logo{
+  padding-top: 2rem;
+  margin-bottom: 5rem;
+  color: #c1a57b;
+}
+.nav-item{
+  margin: 0.6rem;
+  font-size: 1.5rem;
+}
+
+.nav-item:hover{
+  background-color: #ececec;
+  color: black;
+}
+.nav-item:hover{
+  color: black;
+  opacity: 1;
+}
+.about-section {
+  text-align: center;
+}
+.about-img{
+border-radius: 1000px;
+height: 16rem;
+width: 16rem;
+margin-bottom: 3rem;
+}
+.my-work{
+  background-color: #ffffff;
+    min-height: 50rem;
+  text-align: center;
+padding-bottom:  2rem;
+}
+.resume-section{
+
+    color: #4d3e3e;
+    min-height: 40rem;
+    padding-bottom:  2rem;
+}
+.w3cv{
+  overflow: scroll;
+  height: 44rem;
+  width: auto;
+  overflow-x: hidden;
+}
+.follow-section{
+  text-align: center;
+  background-color: #4cbbb9;
+  min-height: 40rem;
+}
+.buttons-w{
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 3rem;
+}
+.jumbotron {
+  background-color: none;
+}
+h3{
+  opacity: 0.6;
+}
+.contact-section{
+  background-color: #fcf8e8;
+  min-height: 45rem;
+}
